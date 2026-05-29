@@ -9,8 +9,6 @@ The raw data were downloaded from the World Bank World Development Indicators (W
 - Manufacturing Value Added: https://data.worldbank.org/indicator/NV.IND.MANF.ZS
 - GDP per Capita: https://data.worldbank.org/indicator/NY.GDP.PCAP.KD
 
-The clean merged panel is available here: 
-
 ## Code
 - `code/01_clean.py` — loads and merges the four WDI indicator files into a clean panel dataset
 - `code/02_analyze.py` — generates visualizations from the clean panel
